@@ -4,4 +4,4 @@
 
 %include "inc-bpb.asm"
 
-mov al, [bx+BPB.jump]
+mov al, [bx+bpb.jump]
