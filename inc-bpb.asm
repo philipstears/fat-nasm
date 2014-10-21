@@ -1,6 +1,6 @@
 ; inc-bpb.asm
 ; -------------------------------------------
-; vim: asmsyntax=nasm expandtab
+; vim: ft=nasm expandtab
 ;
 ;
 ; Bios Parameter Block Structures
